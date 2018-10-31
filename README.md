@@ -1,4 +1,4 @@
-# Galvanize_Case_Studies
+# Galvanize Case Studies
 A collection of data science case studies
 
 ## [Fraud Detection](https://github.com/aworth00/Galvanize_Case_Studies/tree/master/fraud-detection-case-study)
